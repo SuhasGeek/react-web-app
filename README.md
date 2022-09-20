@@ -1,2 +1,1 @@
-# react-web-app
-react web demo application for poc
+# ras-ui-react-web-app

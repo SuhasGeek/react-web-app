@@ -1,0 +1,15 @@
+export const buttonStyles = {
+  backgroundColor: "#6BC5E8",
+  width: 120,
+  height: 40,
+  padding: 5,
+  borderRadius: 20,
+  marginTop: 20,
+  alignItems: "center",
+  justifyContent: "center",
+  textAlign: "center",
+  fontWeight: "bold",
+  color: "#FFF",
+  cursor: "pointer",
+  border: 0,
+};
